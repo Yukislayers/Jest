@@ -1,0 +1,18 @@
+package Message;
+
+public enum MessageType {
+
+	DEBUT_PARTIE,
+	NOM,
+	DEBUT_TOUR,
+	DEBUT_JEU,
+	PARAM_JEU,
+	FAIRE_OFFRE,
+	OFFRE_FAIT,
+	PRENDRE_CARTE,
+	CARTE_PRISE,
+	FIN_TOUR,
+	DONNER_TROPHEE,
+	FIN_PARTIE,
+	SCORE,
+}
